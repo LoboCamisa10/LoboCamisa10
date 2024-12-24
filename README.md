@@ -4,7 +4,7 @@
 <br>**Digital Craftsman (Developer)**</br>
 
 👋 Hi, I'm Augusto! 
-<br>I'm a aspiring junior software engineer indie developer building my version of the digital world one step at a time. All coding projects are built from scratch, from planning and design to solving real-life problems with code.</br>
+<br>I'm a aspiring junior software engineer and indie developer building my version of the digital world one step at a time. All coding projects are built from scratch, from planning and design to solving real-life problems with code.</br>
 
 I've long since abandoned social media, and my first introduction to programming was in 2021 with a Python course from a guy named Gustavo Guanabara, I didn't finish it at that time. But i'm no the type of guy who just give up, so at the end of 2023 I returned to the course, and this time I finished. And even go beyond and took the [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) course.</br>
 
